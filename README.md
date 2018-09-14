@@ -1,0 +1,1 @@
+# shg-digitalization
